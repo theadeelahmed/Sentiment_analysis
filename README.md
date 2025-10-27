@@ -16,7 +16,8 @@ Understanding customer feedback is essential for any business. This **NLP-based 
 - **Python** 🐍  
 - **NLTK** 📝 (Natural Language Toolkit)  
 - **Pandas** 🏷️  
-- **Regex & Text Processing**  
+- **Regex & Text Processing**
+- **Matplotlib.pyplot**  
 
 ## ⚙️ How to Run  
 1️⃣ Clone the repository:  
